@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cocktail_array">
+        <item>@string/cocktail1</item>
+        <item>@string/cocktail2</item>
+        <item>@string/cocktail3</item>
+        <item>@string/cocktail4</item>
+        <item>@string/cocktail5</item>
+    </string-array>
+</resources>

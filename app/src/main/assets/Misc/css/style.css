@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+}
+
+#tagline {
+	font-size: 16px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.star {
+	height: 32px;
+	width: 32px;
+	display: inline-block;
+}
+
+#inline {
+	display: inline;
+}
+
+.rating-container, .rating-list, .rateing-list > li {
+	display: inline-block;
+}
